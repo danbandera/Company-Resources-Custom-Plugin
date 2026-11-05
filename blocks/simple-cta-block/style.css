@@ -1,0 +1,19 @@
+.sb-cta {
+  padding: 2rem;
+  border: 2px solid #1e1e1e;
+  border-radius: 8px;
+  background: #f6f7f7;
+}
+
+.sb-cta h3 {
+  margin-top: 0;
+}
+
+.sb-cta__button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: #1e1e1e;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
